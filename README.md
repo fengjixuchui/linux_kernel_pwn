@@ -22,3 +22,11 @@ Linux Kernel pwn, some ctf games and cves
     finished date: 2019.10.12
 
     writeup: None
+
+* 0ctf2018-final-baby
+
+    description: double fetch or side channel attack to solve the problem.
+
+    finished date: 2019.10.14
+
+    writeup: None
