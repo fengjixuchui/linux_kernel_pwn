@@ -30,3 +30,11 @@ Linux Kernel pwn, some ctf games and cves
     finished date: 2019.10.14
 
     writeup: None
+
+* csaw-2015-StringIPC
+
+    description: arbitrary read write with three solutions
+
+    finished date: 2019.10.24
+
+    writeup: None
