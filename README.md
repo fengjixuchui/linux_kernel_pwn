@@ -33,7 +33,15 @@ Linux Kernel pwn, some ctf games and cves
 
 * csaw-2015-StringIPC
 
-    description: arbitrary read write with three solutions
+    description: arbitrary read write with three solutions.
+
+    finished date: 2019.10.24
+
+    writeup: None
+
+* qwb2018-solid_core
+
+    description: hijack prctl with arbitrary read write vuln.
 
     finished date: 2019.10.24
 
