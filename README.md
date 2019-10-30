@@ -46,3 +46,11 @@ Linux Kernel pwn, some ctf games and cves
     finished date: 2019.10.24
 
     writeup: None
+
+* wctf2018-klist
+
+    description: race condition to form uaf, with pipe kernel buf to solve.
+
+    finished date: 2019
+
+    writeup: None
