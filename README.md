@@ -54,3 +54,11 @@ Linux Kernel pwn, some ctf games and cves
     finished date: 2019
 
     writeup: None
+
+* 0ctf2018-zerofs
+
+    description: vfs with no check on filesize which leads to oob read write.
+
+    finished date: 2019
+
+    writeup: None
