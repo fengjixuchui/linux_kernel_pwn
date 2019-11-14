@@ -17,3 +17,9 @@
     Description: gdb script for debug a `lkm`.
 
     Usage: `gdb vmlinux -x gdb_script.py`
+
+* userfaultfd_demo.c
+
+    Description: demo for userfaultfd.
+
+    Usage: `gcc -static -O0 -o userfaultfd_demo userfaultfd_demo.c -lpthread`
