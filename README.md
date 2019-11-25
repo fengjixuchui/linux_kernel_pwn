@@ -70,3 +70,11 @@ Linux Kernel pwn, some ctf games and cves
     finished date: 2019
 
     writeup: None
+
+* d3ctf2019-knote
+
+    description: double fetch with userfaultfd to solve the knote problem
+
+    finished date: 2019
+
+    writeup: None
