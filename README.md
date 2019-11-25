@@ -77,4 +77,4 @@ Linux Kernel pwn, some ctf games and cves
 
     finished date: 2019
 
-    writeup: None
+    writeup: [https://t.zsxq.com/rRFmufU](https://t.zsxq.com/rRFmufU)
