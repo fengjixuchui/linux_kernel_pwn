@@ -1,6 +1,8 @@
 # linux_kernel_pwn
 Linux Kernel pwn, some ctf games and cves
 
+writeup will be published in chinese on [zxsq](https://t.zsxq.com/zby76AE) soon, and then on my [blog](http://ray-cp.github.io/) after a while.
+
 * linux-kernel-pwn-basic-knowledge
 
     description: some basic knowledge and scripts of linux kernel pwn.
